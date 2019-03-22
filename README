@@ -1,0 +1,4 @@
+To compile execute:
+
+$gcc Rubrica.c include/functions.c -o <output_executable_name>
+
